@@ -1,7 +1,8 @@
 {
   "name": "angular",
-  "version": "0.0.0",
-  "private": true,
+  "version": "0.0.2",
+  "private": false,
+   "license": "MIT",
   "dependencies": {
     "@angular/animations": "7.2.11",
     "@angular/cdk": "^7.3.6",
